@@ -46,3 +46,6 @@ it will:
 - About `htop` monitoring: [understanding and using htop to monitor system resources](https://www.deonsworld.co.za/2012/12/20/understanding-and-using-htop-monitor-system-resources/)
 - [Different ways to get memory consumption in python or lessons learned from memory_profiler](http://fa.bianp.net/blog/2013/different-ways-to-get-memory-consumption-or-lessons-learned-from-memory_profiler/)
 - Implement python decorator factory for decorator args: [decorator factory how to pass arguments to decorators](https://dev.to/rohitsanj/decorator-factory-how-to-pass-arguments-to-decorators-3a19)
+
+## License
+[MIT](LICENSE)
