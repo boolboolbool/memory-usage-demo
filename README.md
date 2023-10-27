@@ -7,8 +7,8 @@ For python 3 programs, we can use the @profile decorator from `memory_profiler`,
 
 
 ## Installation
-No need for any package manager, a simple copy paste of the module file
-contents `memory_usage.py` or clone of this git repository will do.
+1. Copy and paste the contents of module `memory_usage.py`, or clone of this git repository.
+2. Install `psutil` package through pip
 
 
 ## Usage
